@@ -1,11 +1,11 @@
 {
-    "name": "Luz Merced Card",
-    "short_name": "LuzMerced",
+    "name": "Ana Garcia Card",
+    "short_name": "AnaGarcia",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#333333",
     "theme_color": "#333333",
-    "description": "Business card page for Luz Merced.",
+    "description": "Business card page for Ana Garcia.",
     "icons": [
         {
             "src": "images/Logo.png",
