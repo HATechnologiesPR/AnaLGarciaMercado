@@ -28,7 +28,7 @@ function agregarContacto() {
   const vCardData = `BEGIN:VCARD
 VERSION:3.0
 FN:Ana L. García Mercado
-N:García Mercado;Ana L. - MCS;;;
+N:García Mercado;MCS - Ana L.;;;
 ORG:Agente Independiente
 TEL;TYPE=CELL:787-530-2876
 EMAIL:anagarciamercado@icloud.com
