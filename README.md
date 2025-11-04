@@ -28,6 +28,11 @@ Una tarjeta de presentación digital moderna y responsiva que permite a los prof
 - **Nombre completo**: Título principal de la tarjeta
 - **Título Profesional**: Ciudad y país/estado
 
+### 📱 Botones de redes sociales
+
+- **Facebook**: Enlace a la página de Facebook
+- **Instagram**: Enlace al perfil de Instagram
+
 ### 📞 Botones de Contacto
 
 - **Llamar**: Enlace directo para realizar llamadas telefónicas
